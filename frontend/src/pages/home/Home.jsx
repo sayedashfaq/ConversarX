@@ -1,4 +1,4 @@
-import Sidebar from "../../components/sidebar/SideBar";
+import Sidebar from "../../components/sidebar/Sidebar";
 import MessageContainer from "../../components/sidebar/messages/MessageContainer";
 const Home = () => {
   return (
